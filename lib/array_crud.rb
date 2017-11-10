@@ -38,5 +38,6 @@ end
 
 def retrieve_last_element_from_array(array)
 
-
+  cats = ["wow", "george", "leslie", "am", "arrays!"]
+  cats.last
 end
